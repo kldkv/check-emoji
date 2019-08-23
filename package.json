@@ -1,0 +1,23 @@
+{
+  "name": "check-emoji",
+  "version": "0.0.1",
+  "description": "Runtime check ability show concret emoji",
+  "main": "index.js",
+  "homepage": "https://github.com/kldkv/check-emoji",
+  "bugs": "https://github.com/kldkv/check-emoji/issues",
+  "scripts": {},
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kldkv/check-emoji.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Alexander Kladkov",
+  "license": "MIT"
+}
